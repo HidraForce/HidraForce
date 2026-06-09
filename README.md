@@ -1,63 +1,77 @@
 # Hi, I'm Bruno Vieira 👋
 
-Backend Developer focused on building scalable APIs, microservices, and reliable web applications using Go and Java.
+<img align="right" alt="coding" width="350" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzJzMjQ3bWtmMGhlbXd0Y2d5ZnA0YjA3ZXE4Znd1YjM3MzJnN3RjZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/g9582DNuQppxC/giphy.gif">
 
-Currently working as a Software Developer at Code and Soul, where I collaborate on enterprise web solutions while continuously expanding my backend expertise through personal projects and professional development.
+Backend Developer focused on building scalable APIs and reliable applications using **Go** and **Java**.
 
-## 🚀 About Me
-
-* 💻 Backend Developer with experience in Go, Java (Spring Boot), PHP, and JavaScript
-* 🔍 Passionate about API design, clean architecture, and software engineering best practices
-* 🐳 Experienced with Docker, Linux environments, Git, and relational/non-relational databases
-* 🌱 Currently deepening my knowledge in microservices, cloud-native applications, and distributed systems
-* 🎓 Bachelor's Degree in Systems Analysis and Development
-* 🇧🇷 Based in Brazil and open to international opportunities
-
-## 🛠 Tech Stack
-
-### Backend
-
-* Go (Gin)
-* Java (Spring Boot)
-* PHP (Drupal)
-* Node.js
-
-### Databases
-
-* PostgreSQL
-* MySQL
-* MongoDB
-* SQL Server
-
-### DevOps & Tools
-
-* Docker
-* Git & GitHub
-* Linux
-* Postman
-* GitHub Actions
-
-### Frontend
-
-* React
-* Next.js
-* TypeScript
-* JavaScript
-
-## 📌 What I'm Working On
-
-* RESTful APIs with authentication and authorization
-* Backend services using Go and Spring Boot
-* Database modeling and optimization
-* Containerized applications with Docker
-* Personal projects focused on backend architecture
-
-## 🌐 Connect With Me
-
-* LinkedIn: linkedin.com/in/bruno-galao
-* GitHub: github.com/HidraForce
-* Email: [vierabruno4@gmail.com](mailto:vierabruno4@gmail.com)
+* 🔭 Currently working on backend projects with Go and Spring Boot
+* 🌱 Learning Microservices, Clean Architecture and Cloud technologies
+* 🐳 Docker enthusiast
+* 🐧 Linux user
+* ⚡ Passionate about software engineering and problem solving
 
 ---
 
-> "Always learning, always building."
+## 🛠 Tech Stack
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=go,java,spring,postgres,mysql,mongodb,docker,linux,git,github,postman,react,typescript" />
+</p>
+
+---
+
+## 📈 GitHub Analytics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HidraForce&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HidraForce&layout=compact&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HidraForce&theme=tokyonight" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### Delta Health Boost API
+
+REST API built with Go focusing on authentication, database integration and Docker deployment.
+
+### Secure Notes API
+
+Spring Boot application with JWT authentication, PostgreSQL and user management.
+
+### Fullstack App
+
+Backend API + Angular Web + React Native Mobile application.
+
+---
+
+## 🏆 Achievements
+
+<img src="https://github-profile-trophy.vercel.app/?username=HidraForce&theme=tokyonight&no-frame=true&row=1&column=6" />
+
+---
+
+## 📊 Contribution Activity
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=HidraForce&theme=tokyo-night" />
+
+---
+
+## 🌎 Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/in/bruno-galao">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+<a href="mailto:vierabruno4@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+</p>
+
+---
+
+![](https://komarev.com/ghpvc/?username=HidraForce\&color=blueviolet\&style=flat-square)
