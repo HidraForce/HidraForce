@@ -1,18 +1,63 @@
-# 💫 About Me:
-Hi 👋! I'm Bruno Galão<br><br>I'm a Junior Full-Stack Developer with an emphasis on Frontend Development 🚀. Passionate about creating modern and interactive web applications, I focus on delivering seamless user experiences using the latest technologies.<br><br>🎓 I have a Technical Degree in Informatics from Instituto Federal and am currently finishing my Bachelor's Degree in Systems Analysis and Development at FATEC.<br><br>🌍 Based in Brazil, I'm always eager to learn new technologies and improve my skills in web and mobile development.<br><br>💻 Tech Stack:<br>⚡ Frontend: JavaScript, TypeScript, React, HTML, CSS, Tailwind<br>🖥️ Backend: Java, PHP, Go (Golang), C#<br>🗄️ Database: MongoDB, MySQL, Postgres, SQL Server<br>🛠️ Tools & Platforms: Git, Docker, Linux (certificate)
+# Hi, I'm Bruno Vieira 👋
 
+Backend Developer focused on building scalable APIs, microservices, and reliable web applications using Go and Java.
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bruno.galao14) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bruno-galao) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vierabruno4@gmail.com) 
+Currently working as a Software Developer at Code and Soul, where I collaborate on enterprise web solutions while continuously expanding my backend expertise through personal projects and professional development.
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Strapi](https://img.shields.io/badge/strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=HidraForce&theme=prussian&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=HidraForce&theme=prussian&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=HidraForce&theme=prussian&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## 🚀 About Me
+
+* 💻 Backend Developer with experience in Go, Java (Spring Boot), PHP, and JavaScript
+* 🔍 Passionate about API design, clean architecture, and software engineering best practices
+* 🐳 Experienced with Docker, Linux environments, Git, and relational/non-relational databases
+* 🌱 Currently deepening my knowledge in microservices, cloud-native applications, and distributed systems
+* 🎓 Bachelor's Degree in Systems Analysis and Development
+* 🇧🇷 Based in Brazil and open to international opportunities
+
+## 🛠 Tech Stack
+
+### Backend
+
+* Go (Gin)
+* Java (Spring Boot)
+* PHP (Drupal)
+* Node.js
+
+### Databases
+
+* PostgreSQL
+* MySQL
+* MongoDB
+* SQL Server
+
+### DevOps & Tools
+
+* Docker
+* Git & GitHub
+* Linux
+* Postman
+* GitHub Actions
+
+### Frontend
+
+* React
+* Next.js
+* TypeScript
+* JavaScript
+
+## 📌 What I'm Working On
+
+* RESTful APIs with authentication and authorization
+* Backend services using Go and Spring Boot
+* Database modeling and optimization
+* Containerized applications with Docker
+* Personal projects focused on backend architecture
+
+## 🌐 Connect With Me
+
+* LinkedIn: linkedin.com/in/bruno-galao
+* GitHub: github.com/HidraForce
+* Email: [vierabruno4@gmail.com](mailto:vierabruno4@gmail.com)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=HidraForce&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+> "Always learning, always building."
