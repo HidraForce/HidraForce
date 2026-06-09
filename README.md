@@ -1,7 +1,5 @@
 # Hi, I'm Bruno Vieira 👋
 
-<img align="right" alt="coding" width="350" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzJzMjQ3bWtmMGhlbXd0Y2d5ZnA0YjA3ZXE4Znd1YjM3MzJnN3RjZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/g9582DNuQppxC/giphy.gif">
-
 Backend Developer focused on building scalable APIs and reliable applications using **Go** and **Java**.
 
 * 🔭 Currently working on backend projects with Go and Spring Boot
