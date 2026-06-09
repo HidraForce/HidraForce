@@ -23,7 +23,7 @@ Backend Developer focused on building scalable APIs and reliable applications us
 ## 📈 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HidraForce&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HidraForce&show_icons=true&theme=tokyonight"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HidraForce&layout=compact&theme=tokyonight"/>
 </p>
 
